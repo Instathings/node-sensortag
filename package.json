@@ -1,6 +1,6 @@
 {
   "name": "@instathings/sensortag",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Node.js lib for the TI SensorTag",
   "main": "index.js",
   "scripts": {
